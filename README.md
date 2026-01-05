@@ -23,11 +23,11 @@ A modern, responsive To-Do List application built with **Vanilla JavaScript**, *
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/todolist-projekpoi.git
+    git clone https://github.com/rapoii/To-Do-List-App.git
     ```
 2.  **Navigate to the project directory:**
     ```bash
-    cd todolist-projekpoi
+    cd To-Do-List-App
     ```
 3.  **Open the App:**
     Simply open the `index.html` file in your browser.
